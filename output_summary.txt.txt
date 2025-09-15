@@ -1,0 +1,8 @@
+BULLETS:
+- From healthcare to finance and transportation, AI systems are being used to analyze massive datasets, recognize complex patterns, and assist humans in making critical decisions.
+- Breakthroughs in deep learning and natural language processing have led to impressive advances in image recognition, speech synthesis, and text generation.
+- Modern AI faces three major challenges: explainability, efficiency, and security.
+- Efficiency focuses on reducing computational costs through model compression, pruning, and quantization so that AI can run effectively even on limited hardware.
+
+PARAGRAPH:
+From healthcare to finance and transportation, AI systems are being used to analyze massive datasets, recognize complex patterns, and assist humans in making critical decisions. Modern AI faces three major challenges: explainability, efficiency, and security. Efficiency focuses on reducing computational costs through model compression, pruning, and quantization so that AI can run effectively even on limited hardware. Security involves defending models against adversarial attacks, data poisoning, and distribution shifts that could degrade performance in real-world environments.
